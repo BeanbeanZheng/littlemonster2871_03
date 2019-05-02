@@ -1,0 +1,60 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="littlemonster.com" resolutions="1x" timestamp="1556797817666">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="4021913375" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4286661555" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="190321-1.jpg" crc="3953699385" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1980-5-14---.png" crc="449035998" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u97-4.png" crc="4223051236" ref="index"/>
+    <file name="1980-5-12---.png" crc="298742114" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="190321-5-crop-u170.jpg" crc="3928142272" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="shejiyeiconwzlpg44znzq.png" crc="481697098" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_332157.png" crc="3970241506" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1200px-twitter_bird_logo_2012svg.png" crc="494820540" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="74ed3a2b01b1b666e278c38ca3006ab0.png" crc="372492457" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gmail_logo.png" crc="3826476927" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="190321-2.png" crc="4058213333" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="190321-3.jpg" crc="529887783" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="190321-4.jpg" crc="4131399562" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="190321-6.jpg" crc="468855484" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="190321-7.jpg" crc="387357860" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="325676097" seo="true" mt="1556789973295" redirect="true"/>
+</manifest>
